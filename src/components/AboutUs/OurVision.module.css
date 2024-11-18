@@ -1,0 +1,56 @@
+.OurVisionMainContainer {
+    padding: 12px 0px;
+    background: #f2f0f4;
+    box-sizing: border-box;
+}
+
+/* .OverviewContainer {
+    margin: 64px 156px;
+} */
+
+.OurVisionHeader h1 {
+    border-left: 8px solid #0450e1;
+    padding-left: 24px;
+    color: #1b1b1f;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 64px;
+    letter-spacing: 0px !important;
+}
+
+.OurVisionBody img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.OurVisionBody p {
+
+    /* padding-left: 12px; */
+    /* color: #1b1b1f; */
+    font-family: "Poppins", sans-serif !important;
+    font-size: 16px;
+    font-style: normal;
+    /* font-weight: 900; */
+    line-height: 24px;
+    /* letter-spacing: 0px !important; */
+}
+
+.OurVisionBodyRight {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+/* @media only screen and (max-width: 768px) {
+    .QuickLinksContainer {
+      margin: 0px;
+    }
+    .QuickLinksBtnRow {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  } */
